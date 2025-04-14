@@ -5,7 +5,7 @@ Team NAME: Neighborhood Watch
 
 Group Members
 - **Dave Morfaw** – [dam318@pitt.edu](mailto:dam318@pitt.edu)  
-- **Muhammed Burgess** – [mhb@pitt.edu](mailto:mhb@pitt.edu)  
+- **Muhammed Burgess** – [mhb46@pitt.edu](mailto:mhb@pitt.edu)  
 - **Hayden Kross** – [HMK69@pitt.edu](mailto:HMK69@pitt.edu)
 
 
